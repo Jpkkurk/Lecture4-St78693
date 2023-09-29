@@ -4,7 +4,9 @@ body {
     font-family: Arial, sans-serif;
     background-color: #f0f0f0;
 }
-
+.grad {
+    background-image: linear-gradient(to right, yellow, red);
+}
 h1 {
     color: #333;
 }
